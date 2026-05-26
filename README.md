@@ -1,6 +1,9 @@
 # ubuntu-i3-dotfiles
 Dotfiles, packages and commands of my Ubuntu i3 setup.
 
+> [!WARNING]
+> I did this setup on **Kubuntu** environment, it may work on **Ubuntu** and it may not, but it will probably work.
+
 ---
 
 #### Installation command for Ubuntu (Kubuntu):
