@@ -1,4 +1,7 @@
-# ubuntu-i3-dotfiles
+# My Ubuntu i3 Setup Dotfiles
+
+![Screenshot](./screenshot.gif)
+
 Dotfiles, packages and commands of my Ubuntu i3 setup.
 
 > [!WARNING]
