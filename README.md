@@ -7,6 +7,9 @@ Dotfiles, packages and commands of my Ubuntu i3 setup.
 > [!WARNING]
 > I did this setup on **Kubuntu** environment, it may work on **Ubuntu** and it may not, but it will probably work.
 
+> [!NOTE]
+> This is my setup and can change time to time, so you will see my latest (current) setup :)
+
 ---
 
 #### Installation command for Ubuntu (Kubuntu):
