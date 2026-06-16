@@ -24,3 +24,4 @@ sudo apt update && sudo apt install i3-wm i3status i3lock dmenu xorg xinit x11-x
 - dmenu
 - alacritty
 - picom
+- rofi
