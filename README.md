@@ -1,4 +1,4 @@
-# My Ubuntu i3 Setup Dotfiles
+# My Kubuntu i3 Setup Dotfiles
 
 ![Screenshot](./screenshot.gif)
 
